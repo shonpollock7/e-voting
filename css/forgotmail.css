@@ -1,0 +1,24 @@
+.error-mail{
+    color: red;
+    font-weight: 600;
+    position: relative;
+    top: 240px;
+    position: absolute;
+    margin-left: 5.5px;
+    margin-right: 5px;
+    margin-left: 3px;
+    display: none;
+    
+}
+.error{
+    color: red;
+    font-weight: 600;
+    position: relative;
+    top: 200px;
+    position: absolute;
+    margin-left: 5.5px;
+    margin-right: 5px;
+    margin-left: 3px;
+    display: none;
+}
+
